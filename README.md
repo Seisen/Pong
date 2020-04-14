@@ -1,1 +1,2 @@
 # Pong
+Install pygame
